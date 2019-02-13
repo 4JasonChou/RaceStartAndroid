@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_cars"
+        android:icon="@drawable/ic_under_bar_cars"
+        android:title="@string/title_cars" />
+
+    <item
+        android:id="@+id/navigation_race"
+        android:icon="@drawable/ic_under_bar_race"
+        android:title="@string/title_race" />
+
+    <item
+        android:id="@+id/navigation_other"
+        android:icon="@drawable/ic_under_bar_other"
+        android:title="@string/title_others" />
+
+</menu>
